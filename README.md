@@ -52,7 +52,7 @@ AGRONA follows a two-stage computer vision pipeline:
 7. The recommendation layer retrieves related disease information.
 8. The final output includes the prediction, confidence, and recommendation.
 
-![AGRONA System Architecture](05_assets/system_architecture.png)
+![AGRONA System Architecture](05_assets/System-Architecture.png)
 
 ---
 
