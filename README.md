@@ -228,10 +228,11 @@ Future improvements include:
 
 ## Team
 
+* Sama Alharbi
 * Dana Al-Anizi
 * Fatima Alhiri
 * Lujain Abdullah
-* Sama Alharbi
+
 
 ---
 
