@@ -1,0 +1,5 @@
+Model,Accuracy,Macro F1,Top-3,Inference (ms),Size (MB),Notes
+resnet18,0.5593,0.518,0.822,15.3,44.8,Baseline
+efficientnet_b0,0.6483,0.6323,0.8898,21.5,16.5,Improved
+mobilenetv2_100,0.6356,0.6087,0.8983,17.4,9.3,Lightweight
+convnext_tiny,0.6992,0.6822,0.928,44.1,111.4,Strongest / heaviest

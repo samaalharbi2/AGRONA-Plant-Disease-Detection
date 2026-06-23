@@ -1,0 +1,116 @@
+{
+  "Apple scab": {
+    "symptoms": "Olive-green to black velvety spots on leaves and fruit; leaves may yellow and drop early.",
+    "cause": "Fungus Venturia inaequalis, favored by cool wet spring weather.",
+    "treatment": "Remove and destroy fallen infected leaves; apply a scab fungicide from bud break.",
+    "prevention": "Plant resistant cultivars, prune for airflow, rake leaf litter in autumn."
+  },
+  "Apple rust": {
+    "symptoms": "Bright orange-yellow spots on upper leaf surface; tube-like structures underneath.",
+    "cause": "Cedar-apple rust fungus needing both apple and nearby juniper/cedar hosts.",
+    "treatment": "Apply a preventive fungicide at pink bud stage; remove nearby galls on junipers.",
+    "prevention": "Avoid planting apples near junipers; choose rust-resistant varieties."
+  },
+  "Corn leaf blight": {
+    "symptoms": "Long grey-green to tan cigar-shaped lesions that enlarge and merge.",
+    "cause": "Northern corn leaf blight fungus, favored by warm humid conditions.",
+    "treatment": "Apply a foliar fungicide at early onset; remove heavily infected debris.",
+    "prevention": "Rotate crops, use resistant hybrids, bury residue after harvest."
+  },
+  "Corn gray leaf spot": {
+    "symptoms": "Rectangular grey to tan lesions bounded by leaf veins.",
+    "cause": "Fungus Cercospora zeae-maydis, worse in no-till humid fields.",
+    "treatment": "Apply fungicide if it appears before tasseling on susceptible hybrids.",
+    "prevention": "Rotate away from corn, till residue, plant resistant hybrids."
+  },
+  "Corn rust": {
+    "symptoms": "Small cinnamon-brown raised pustules on both leaf surfaces.",
+    "cause": "Common rust fungus Puccinia sorghi, favored by cool moist weather.",
+    "treatment": "Fungicide rarely needed; apply on susceptible sweet corn if severe.",
+    "prevention": "Plant resistant hybrids and avoid prolonged leaf wetness."
+  },
+  "Tomato early blight": {
+    "symptoms": "Dark concentric target rings on older leaves with yellow halos.",
+    "cause": "Fungus Alternaria solani, spread by water splash in warm humid weather.",
+    "treatment": "Remove affected lower leaves and apply a labeled fungicide on schedule.",
+    "prevention": "Mulch soil, stake plants, water at the base, rotate crops."
+  },
+  "Tomato late blight": {
+    "symptoms": "Large greasy grey-green blotches turning brown; white mold underneath in humidity.",
+    "cause": "Oomycete Phytophthora infestans, spreads fast in cool wet weather.",
+    "treatment": "Remove and destroy infected plants immediately; protectant fungicide on healthy ones.",
+    "prevention": "Use disease-free transplants, space plants, avoid overhead watering."
+  },
+  "Tomato septoria leaf spot": {
+    "symptoms": "Many small circular spots with dark borders and grey centers on lower leaves.",
+    "cause": "Fungus Septoria lycopersici, favored by wet foliage.",
+    "treatment": "Remove infected leaves, apply fungicide, avoid wetting foliage.",
+    "prevention": "Rotate crops, mulch, improve air circulation."
+  },
+  "Tomato bacterial spot": {
+    "symptoms": "Small dark water-soaked spots on leaves; scabby spots on fruit.",
+    "cause": "Bacteria (Xanthomonas), spread by splashing water and handling.",
+    "treatment": "Apply copper-based sprays early; remove badly infected plants.",
+    "prevention": "Use clean seed, avoid working with wet plants, rotate."
+  },
+  "Tomato leaf mold": {
+    "symptoms": "Pale yellow patches on top with olive-green velvety mold underneath.",
+    "cause": "Fungus Passalora fulva, common in humid greenhouses.",
+    "treatment": "Increase ventilation, lower humidity, apply a labeled fungicide.",
+    "prevention": "Space plants, ventilate well, grow resistant varieties."
+  },
+  "Tomato mosaic virus": {
+    "symptoms": "Mottled light-and-dark green leaves, often distorted.",
+    "cause": "Tobacco/tomato mosaic virus, spread by handling and tools.",
+    "treatment": "No cure; remove and destroy infected plants to limit spread.",
+    "prevention": "Wash hands and tools, control weeds, use resistant varieties."
+  },
+  "Tomato yellow leaf curl virus": {
+    "symptoms": "Upward curling, yellowing, and stunting of young leaves.",
+    "cause": "Virus transmitted by whiteflies.",
+    "treatment": "No cure; remove infected plants and control whiteflies.",
+    "prevention": "Use whitefly screens, reflective mulch, resistant varieties."
+  },
+  "Tomato spider mites": {
+    "symptoms": "Fine yellow stippling and faint webbing; leaves bronze and dry.",
+    "cause": "Two-spotted spider mites, worse in hot dry conditions.",
+    "treatment": "Spray with water, apply insecticidal soap or miticide, remove infested leaves.",
+    "prevention": "Keep plants watered, avoid dust, encourage predatory mites."
+  },
+  "Potato early blight": {
+    "symptoms": "Concentric dark target-spot lesions on older leaves.",
+    "cause": "Fungus Alternaria solani.",
+    "treatment": "Apply fungicide at first symptoms and remove infected foliage.",
+    "prevention": "Rotate crops, fertilize adequately, avoid overhead irrigation."
+  },
+  "Potato late blight": {
+    "symptoms": "Dark water-soaked lesions that rot leaves and stems rapidly.",
+    "cause": "Oomycete Phytophthora infestans.",
+    "treatment": "Destroy infected plants and apply protectant fungicide to the rest.",
+    "prevention": "Plant certified seed, hill soil over tubers, avoid wet foliage."
+  },
+  "Grape black rot": {
+    "symptoms": "Brown circular leaf spots with dark borders; fruit shrivels into black mummies.",
+    "cause": "Fungus Guignardia bidwellii, favored by warm wet weather.",
+    "treatment": "Apply fungicide from early shoot growth; remove mummified berries.",
+    "prevention": "Prune for airflow, remove mummies, manage canopy."
+  },
+  "Squash powdery mildew": {
+    "symptoms": "White powdery patches on leaves that yellow and dry.",
+    "cause": "Powdery mildew fungi, favored by warm days and humid nights.",
+    "treatment": "Apply sulfur, potassium bicarbonate, or a labeled fungicide; remove worst leaves.",
+    "prevention": "Space plants, ensure sun and airflow, grow resistant varieties."
+  },
+  "Bell pepper bacterial spot": {
+    "symptoms": "Small dark raised spots with yellow halos; leaf drop in severe cases.",
+    "cause": "Bacteria (Xanthomonas), spread by water and seed.",
+    "treatment": "Apply copper sprays early and remove infected debris.",
+    "prevention": "Use clean seed, rotate crops, avoid overhead watering."
+  },
+  "Healthy leaf": {
+    "symptoms": "Uniform green color, no spots, lesions, mold, or distortion.",
+    "cause": "No disease detected.",
+    "treatment": "No treatment needed.",
+    "prevention": "Keep monitoring, water at the base, maintain airflow and nutrition."
+  }
+}
