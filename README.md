@@ -110,7 +110,6 @@ AGRONA-Plant-Disease-Detection/
 │   └── demo_screenshot.png
 │
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
@@ -226,75 +225,6 @@ Future improvements include:
 
 * Expanding the dataset with more crops, diseases, and field conditions.
 * Collecting more real-world plant images from different regions.
-* Improving confidence calibration.
-* Adding a FastAPI backend for integration with farm management platforms.
-* Adding an expert feedback loop to improve future retraining.
-* Deploying a lighter model for mobile or edge inference.
-
----
-
-## How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/AGRONA-Plant-Disease-Detection.git
-cd AGRONA-Plant-Disease-Detection
-```
-
-### 2. Create a Virtual Environment
-
-```bash
-python -m venv .venv
-```
-
-For Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-For Mac / Linux:
-
-```bash
-source .venv/bin/activate
-```
-
-### 3. Install Requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Gradio App
-
-```bash
-python 03_src/app.py
-```
-
----
-
-## Model Checkpoints
-
-Large model checkpoint files are not included in this repository due to file size limitations.
-
-Required checkpoint files:
-
-```text
-leaf_gate.pth
-disease_convnext_tiny.pth
-disease_efficientnet_b0.pth
-disease_mobilenetv2_100.pth
-disease_resnet18.pth
-```
-
-Place the checkpoint files inside:
-
-```text
-04_models_artifacts/
-```
-
-before running the application locally.
 
 ---
 
