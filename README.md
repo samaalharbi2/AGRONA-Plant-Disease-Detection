@@ -2,8 +2,6 @@
 
 AGRONA is an AI-based computer vision system designed to support plant disease detection from leaf images. The system first validates whether the uploaded image is a plant leaf, then predicts the most likely disease class and provides a related recommendation through a lightweight knowledge-based recommendation layer.
 
-The project focuses on improving reliability in real-world conditions, where plant images may include different lighting, backgrounds, angles, and camera quality.
-
 ---
 
 ## Project Overview
