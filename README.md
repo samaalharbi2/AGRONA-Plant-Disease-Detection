@@ -35,7 +35,7 @@ The system is deployed using a Gradio interface, where users can upload a leaf i
 * Top predictions
 * Disease-related recommendation
 
-![AGRONA Demo Interface](05_assets/demo_screenshot.png)
+![AGRONA Demo Interface](05_assets/Test-Corn leaf blight.png)
 
 ---
 
