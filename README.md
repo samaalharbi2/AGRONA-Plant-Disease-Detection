@@ -198,22 +198,10 @@ Predictions below the confidence threshold are flagged as needing review instead
 
 ---
 
-## Experimental Finding
 
-The team tested whether pretraining on lab-controlled PlantVillage images before training on real-world PlantDoc images would improve performance.
+## Demo
 
-After benchmarking, direct training on field-style PlantDoc data achieved comparable or better results. Based on this finding, the final approach focused on the simpler and more efficient PlantDoc-based training pipeline.
-
----
-
-## Limitations
-
-* Real-world field accuracy is lower than lab-image accuracy due to lighting, background, angle, and camera quality variation.
-* The test set is limited in size.
-* Some classes have few samples, which affects per-class reliability.
-* One mismatched class between train and test was excluded from the final evaluation.
-* Low-confidence predictions still require expert review.
-* The system is a decision-support tool and should not replace expert agricultural diagnosis.
+You can watch the AGRONA demo video here:https://www.youtube.com/watch?v=z6VEwJ91GSA
 
 ---
 
