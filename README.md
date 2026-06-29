@@ -35,6 +35,8 @@ The system is deployed using a Gradio interface, where users can upload a leaf i
 
 ![AGRONA Demo Interface](05_assets/test.png)
 
+You can watch the AGRONA demo video here:https://www.youtube.com/watch?v=z6VEwJ91GSA
+
 ---
 
 ## System Architecture
@@ -195,13 +197,6 @@ The system was evaluated using the following metrics:
 * Low-confidence handling
 
 Predictions below the confidence threshold are flagged as needing review instead of being returned as reliable diagnoses.
-
----
-
-
-## Demo
-
-You can watch the AGRONA demo video here:https://www.youtube.com/watch?v=z6VEwJ91GSA
 
 ---
 
